@@ -1,0 +1,20 @@
+h2{
+    color:rgb(100, 32, 155);
+    font-family:fantasy;
+}
+table{
+    border-collapse: collapse;
+    font-family: lucida sans regular, sans-serif;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #D735DA;
+}
+th{
+    font-weight: 800;
+    background-color: #D735DA;
+    color:honeydew;
+}
+td{
+    background-color:#f3e2f3 ;
+}
+
